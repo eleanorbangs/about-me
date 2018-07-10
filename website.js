@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
     function changeImage(){
         console.log(myPhoto.src);
         if (myPhoto.src == "https://eleanorbangs.github.io/about-me/rnbw_cat.jpg"){
+            console.log('IN THE YES PHOTO')
             myPhoto.src = "fonzie.JPG"
         } else {
             myPhoto.src = "rnbw_cat.jpg"
