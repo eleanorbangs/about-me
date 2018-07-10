@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     function changeImage(){
         console.log(myPhoto.src);
-        if (myPhoto.src == "file:///Users/girlswhocode2018/development/about-me/rnbw_cat.jpg"){
+        if (myPhoto.src == "https://eleanorbangs.github.io/about-me/rnbw_cat.jpg"){
             myPhoto.src = "fonzie.JPG"
         } else {
             myPhoto.src = "rnbw_cat.jpg"
