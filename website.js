@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
         console.log(myPhoto.src);
         if (myPhoto.src == "https://eleanorbangs.github.io/about-me/rnbw_cat.jpg"){
             console.log('IN THE YES PHOTO')
-            myPhoto.src = "fonzie.jpg"
+            myPhoto.src = "about-me/fonzie.jpg"
         } else {
             myPhoto.src = "rnbw_cat.jpg"
         }
