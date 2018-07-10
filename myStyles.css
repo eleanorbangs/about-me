@@ -1,0 +1,24 @@
+
+body{
+    margin:10; font-family: helvetica; color:#000000;
+background-color: #0b635a;
+  background: -webkit-linear-gradient(#f9dbf1, #b3dff9);
+}
+
+#menu{
+    padding:15px;
+}
+
+h1{font-family:cursive; font-size:44px; font-weight:bolder; font-style:italic; text-align:center;}
+
+#main-text{
+    padding:10px;margin:5px; font-size: 20px; text-align: center; padding-left:100px; padding-right:100px;
+}
+
+#cat{
+    text-align:center; padding: 40px;
+}
+
+#contact{
+    padding:20px; text-align:center;
+}
